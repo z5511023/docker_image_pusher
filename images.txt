@@ -1,3 +1,2 @@
-nginx:1.7.9
 nginx.1.25.0
 nginx.1.8.0
