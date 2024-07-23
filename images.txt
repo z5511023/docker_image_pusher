@@ -1,4 +1,4 @@
 nginx:1.25.0
 nginx:1.25.1
 agilestacks/fluentd-elasticsearch:v1.3.0
-metrics-server/metrics-server:v0.7.1
+registry.k8s.io/metrics-server/metrics-server:v0.7.1
